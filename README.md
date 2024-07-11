@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fenet Damena</h1>
 <h3 align="center">An eager web developer and engineer based in Ethiopia</h3>
-<img align="right" alt="coding"  width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
+<img align="center" alt="coding"  width="600" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenet-damena&label=Profile%20views&color=0e75b6&style=flat" alt="fenet-damena" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **react,C,python,C++**
+- 💬 Ask me about **Javascript,C,python,C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
