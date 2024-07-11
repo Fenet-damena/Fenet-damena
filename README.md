@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fenet Damena</h1>
 <h3 align="center">An eager web developer and engineer based in Ethiopia</h3>
-<img align="center" alt="coding"  width="700"  height="400" src="https://image.lexica.art/full_jpg/eb14e2bc-8f78-4629-beff-4cb9a82076d4">
+<img align="center" alt="coding"  width="780"  height="400" src="https://image.lexica.art/full_jpg/eb14e2bc-8f78-4629-beff-4cb9a82076d4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenet-damena&label=Profile%20views&color=0e75b6&style=flat" alt="fenet-damena" /> </p>
 
