@@ -1,7 +1,7 @@
-<img align="center" alt="coding"  width="600" src="https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif">
+<img align="center" alt="coding"  width="1000" src="https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif">
 <h1 align="center">Hi 👋, I'm Fenet Damena</h1>
 <h3 align="center">An eager web developer and engineer based in Ethiopia</h3>
-<img align="center" alt="coding"  width="600" src="https://fiverr-res.cloudinary.com/t_mobile_web_2,q_auto,f_auto/gigs/345152052/original/78a1f2fc22df7a341ed1e771fa0843f92e80e0db.jpg">
+<img align="center" alt="coding"  width="1000" src="https://fiverr-res.cloudinary.com/t_mobile_web_2,q_auto,f_auto/gigs/345152052/original/78a1f2fc22df7a341ed1e771fa0843f92e80e0db.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenet-damena&label=Profile%20views&color=0e75b6&style=flat" alt="fenet-damena" /> </p>
 
