@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Javascript,C,python,C++**
+- 💬 Ask me about **Javascript,C,python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
